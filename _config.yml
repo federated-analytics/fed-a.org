@@ -1,10 +1,10 @@
 title: Federated Analytics (HDR-UK project)
 # This appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-topnav_title: Fed-A
+topnav_title: HDR UK Federated Analytics (Fed-A)
 # Optional: this appears on the top navigation bar next to the main_logo.svg icon
 
-description: "HDR UK Federated Analytics"
+description: "A transformational infrastructure programme to enable researchers to securely access and analyse data across multiple locations"
 # Metadata description of the website
 
 remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@2.4.0
