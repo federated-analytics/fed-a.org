@@ -23,10 +23,10 @@ The Federated Analytics programme is working hand in hand with [ELIXIR UK](https
 * ELIXIR-UK, the national node of ELIXIR Europe 
 
 ## Programme leads
-Phil Quinlan 
-Carole Goble
+* [Phil Quinlan](https://www.nottingham.ac.uk/medicine/people/philip.quinlan), University of Nottingham
+* [Carole Goble](https://research.manchester.ac.uk/en/persons/carole.goble), [eScience Lab](https://esciencelab.org.uk/), The University of Manchester
 
-## Further information
+## Mailing list
 
 To receive updates from the Federated Analytics programme and help influence its directions, join the [HDRUKFedA mailing list](https://www.jiscmail.ac.uk/HDRUKFedA).
 
