@@ -7,6 +7,8 @@
   * [Reporting Bugs](#user-content-reporting-bugs)
   * [Suggesting Enhancements](#user-content-suggesting-enhancements)
   * [Creating Pull Requests](#user-content-creating-pull-requests)
+  * [Working with ELIXIR Toolkit Theme](#working-with-elixir-toolkit-theme)
+  * [VS Code and Local Development](#vs-code-and-local-development-website)
   
 ## Contributors Agreement
 
@@ -85,6 +87,17 @@ If you wish to submit new code or content for this repository, we ask that you c
 * **Comment why this pull request represents an enhancement** and give a rationale explaining why you did it that way and not another way.
 * **Use the same coding style than the one used in this project**.
 * **Welcome suggestions from the maintainers to improve your pull request**. 
+
+#### Working with ELIXIR Toolkit Theme
+
+This website has been developed using the [ELIXIR Toolkit Theme](https://elixir-belgium.github.io/elixir-toolkit-theme/). This is a Jekyll theme designed website, hosted on GitHub infrastructure, and deployed via GitHub Actions. The webpages are written in Markdown.
+
+More information on how you can configure the theme can be found using these links:
+
+- [Changing the navigation structures](https://elixir-belgium.github.io/elixir-toolkit-theme/navigation_structures)
+- [Configuring the theme](https://elixir-belgium.github.io/elixir-toolkit-theme/configuring_theme)
+- [Applying custom branding](https://elixir-belgium.github.io/elixir-toolkit-theme/custom_branding)
+- [Markdown cheat sheet](https://elixir-belgium.github.io/elixir-toolkit-theme/markdown_cheat_sheet)
 
 #### VS Code and Local Development Website
 
